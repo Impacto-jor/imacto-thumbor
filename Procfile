@@ -1,1 +1,1 @@
-web: thumbor -p 
+web: thumbor -p -c ./thumbor.conf
